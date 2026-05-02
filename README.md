@@ -6,7 +6,7 @@ Systems Engineering student passionate about software development, web applicati
 
 ---
 
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="160" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
 ### 👨‍💻 About Me
 
@@ -17,9 +17,7 @@ Systems Engineering student passionate about software development, web applicati
 
 ---
 
-<h2 align="left">My Skills Include</h2>
-
----
+## 🛠️ My Skills Include</h2>
 
 ### 🛠️ &nbsp;Tech Stack
 
@@ -47,6 +45,14 @@ Systems Engineering student passionate about software development, web applicati
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/AI%20Tools-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 
+### 📚 &nbsp;Methodologies and Modeling
+
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)&nbsp;
+![UML](https://img.shields.io/badge/UML%20Diagrams-6C63FF?style=for-the-badge)&nbsp;
+![Class Diagrams](https://img.shields.io/badge/Class%20Diagrams-4B8BBE?style=for-the-badge)&nbsp;
+![Use Case Diagrams](https://img.shields.io/badge/Use%20Case%20Diagrams-2E8B57?style=for-the-badge)&nbsp;
+![Database Modeling](https://img.shields.io/badge/Database%20Modeling-4479A1?style=for-the-badge)&nbsp;
+
 ---
 
 ### 📌 Projects
@@ -60,13 +66,13 @@ Systems Engineering student passionate about software development, web applicati
 - 🏳️ **Guess the Flag App**  
   Mobile game where the user tries to guess the correct flag chosen randomly by the application.
   
-- 🛒 **Appliance Registration App**
+- 🛒 **Appliance Registration App**  
   Mobile application for registering and storing appliance data, designed for appliance stores or similar businesses.
 
 - 🏋️ **Gym Management System**  
   Web system focused on managing clients, memberships, payments, reservations and inventory.
     
-- 🍽️ **Food Sales Management System**
+- 🍽️ **Food Sales Management System**  
   Web system focused on managing food sales, product records, inventory control and daily income reports.
   
 ---
@@ -82,7 +88,7 @@ Systems Engineering student passionate about software development, web applicati
   
 ---
 
-### 🌍 Languages I speak: 
+### 🌍 Languages I speak
 
 <p align="left">
   <img 
@@ -94,8 +100,8 @@ Systems Engineering student passionate about software development, web applicati
     alt="English" 
   />
   <img 
-  src="https://img.shields.io/badge/Brazilian%20Portuguese-Basic-blue?style=for-the-badge" 
-  alt="Brazilian Portuguese" 
+    src="https://img.shields.io/badge/Brazilian%20Portuguese-Basic-blue?style=for-the-badge" 
+    alt="Brazilian Portuguese" 
   />
 </p>
 
@@ -107,8 +113,8 @@ Systems Engineering student passionate about software development, web applicati
   <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:yosepkabrera789@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 

@@ -10,16 +10,16 @@ Systems Engineering student passionate about software development, web applicati
 
 ### 👨‍💻 About Me
 
-- 🎓 Systems Engineering student.
-- 💻 Interested in software development, web applications, mobile apps and databases.
-- 🔭 Working on academic and personal projects.
-- 🌱 Learning and improving through practice.
+- Systems Engineering student.
+- Interested in software development, web applications, mobile apps and databases.
+- Working on academic and personal projects.
+- Learning and improving through practice.
 
 ---
 
 ### 🚀 My Skills Include
 
-### 💻 &nbsp;Tech Stack
+### Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -30,12 +30,12 @@ Systems Engineering student passionate about software development, web applicati
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)&nbsp;
 
-### 🗃️ &nbsp;Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Oracle SQL Developer](https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 
-### 🧰 &nbsp;Other Tools
+### Other Tools
 
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -57,22 +57,22 @@ Systems Engineering student passionate about software development, web applicati
 
 ### 📌 Projects
 
-- 📱 **Basic Calculator App**  
+- **Basic Calculator App**  
   Android application for basic operations such as addition, subtraction, multiplication, division and square root.
 
-- 🎮 **Tic Tac Toe Game**  
+- **Tic Tac Toe Game**  
   Simple Android game with score tracking and winner detection.
 
-- 🏳️ **Guess the Flag App**  
+- **Guess the Flag App**  
   Mobile game where the user tries to guess the correct flag chosen randomly by the application.
   
-- 🛒 **Appliance Registration App**  
+- **Appliance Registration App**  
   Mobile application for registering and storing appliance data, designed for appliance stores or similar businesses.
 
-- 🏋️ **Gym Management System**  
+- **Gym Management System**  
   Web system focused on managing clients, memberships, payments, reservations and inventory.
     
-- 🍽️ **Food Sales Management System**  
+- **Food Sales Management System**  
   Web system focused on managing food sales, product records, inventory control and daily income reports.
   
 ---

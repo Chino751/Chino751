@@ -17,6 +17,49 @@ Systems Engineering student passionate about software development, web applicati
 
 ---
 
+### Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧮 Basic Calculator App</h3>
+      <p>Android app for basic operations: addition, subtraction, multiplication, division and square root.</p>
+      <p><b>Tech:</b> Java, Android Studio</p>
+    </td>
+    <td width="50%">
+      <h3>⭕ Tic Tac Toe Game</h3>
+      <p>Simple Android game with score tracking and winner detection.</p>
+      <p><b>Tech:</b> Java, Android Studio</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏳️ Guess the Flag App</h3>
+      <p>Mobile game where the user guesses the random flag chosen by the app.</p>
+      <p><b>Tech:</b> Java, Android Studio</p>
+    </td>
+    <td width="50%">
+      <h3>🔌Appliance Registration App</h3>
+      <p>Mobile app for registering and storing appliance data for stores.</p>
+      <p><b>Tech:</b> Java, Android Studio</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏋️ Gym Management System</h3>
+      <p>Web system focused on managing clients, memberships, payments, reservations and inventory.</p>
+      <p><b>Tech:</b> Laravel, PHP, MySQL</p>
+    </td>
+    <td width="50%">
+      <h3>🍽️ Food Sales Management System</h3>
+      <p>Web system focused on managing food sales, product records, inventory control and daily income reports.</p>
+      <p><b>Tech:</b> HTML, CSS, JavaScript, PHP</p>
+    </td>
+  </tr>
+</table>
+  
+---
+
 ### 🚀 My Skills Include
 
 ### Tech Stack
@@ -45,36 +88,6 @@ Systems Engineering student passionate about software development, web applicati
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/AI%20Tools-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 
-### 📚 &nbsp;Methodologies and Modeling
-
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)&nbsp;
-![UML](https://img.shields.io/badge/UML%20Diagrams-6C63FF?style=for-the-badge)&nbsp;
-![Class Diagrams](https://img.shields.io/badge/Class%20Diagrams-4B8BBE?style=for-the-badge)&nbsp;
-![Use Case Diagrams](https://img.shields.io/badge/Use%20Case%20Diagrams-2E8B57?style=for-the-badge)&nbsp;
-![Database Modeling](https://img.shields.io/badge/Database%20Modeling-4479A1?style=for-the-badge)&nbsp;
-
----
-
-### 📌 Projects
-
-- **Basic Calculator App**  
-  Android application for basic operations such as addition, subtraction, multiplication, division and square root.
-
-- **Tic Tac Toe Game**  
-  Simple Android game with score tracking and winner detection.
-
-- **Guess the Flag App**  
-  Mobile game where the user tries to guess the correct flag chosen randomly by the application.
-  
-- **Appliance Registration App**  
-  Mobile application for registering and storing appliance data, designed for appliance stores or similar businesses.
-
-- **Gym Management System**  
-  Web system focused on managing clients, memberships, payments, reservations and inventory.
-    
-- **Food Sales Management System**  
-  Web system focused on managing food sales, product records, inventory control and daily income reports.
-  
 ---
 
 ### 📚 Academic Knowledge

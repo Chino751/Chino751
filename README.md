@@ -77,7 +77,7 @@ Systems Engineering student passionate about software development, web applicati
   <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
   </a>
-  <a href="mailto:yosepkabrera789@gmail.com">
+  <a href="mailto:pruebas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-yosepkabrera789%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" title="Gmail" />
   </a>
 </p>

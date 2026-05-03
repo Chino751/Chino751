@@ -17,61 +17,57 @@ Systems Engineering student passionate about software development, web applicati
   
 ---
 
-### 🚀 My Skills Include
+### My Skills Include
 
-### Tech Stack
+#### Programming Languages
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)&nbsp;
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,java,cs" alt="Programming Languages" title="HTML, CSS, JavaScript, Python, PHP, Java, C#"/>
 
-### Databases
+#### Frameworks and Libraries
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Oracle SQL Developer](https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+<img src="https://skillicons.dev/icons?i=react,vite,laravel" alt="Frameworks and Libraries" title="React, Vite, Laravel" />
 
-### Other Tools
+#### Mobile Development
 
-![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
+<img height="48" width="48" src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" title="Android Studio" />
 
----
+#### Databases
 
-### 📚 Academic Knowledge
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
+<img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" />
 
-- Scrum methodology and agile software development practices.
-- UML diagrams, class diagrams, use case diagrams and database modeling.
-- System analysis and design for academic and personal projects.
-- Preparation of technical reports and project documentation using Microsoft Word.
-- Creation of academic presentations and visual materials using Canva.
-- Use of AI tools to improve productivity, organize ideas, optimize project development and enhance learning.
-  
+#### Tools / IDEs
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,arduino" alt="Tools" title="VS Code, Visual Studio Community, Git, GitHub, Arduino" />
+<img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" title="Canva" />
+
+#### Methodologies and Modeling
+<p align="left">
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge" alt="Scrum" title="Scrum" />
+  <img src="https://img.shields.io/badge/UML%20Diagrams-6C63FF?style=for-the-badge" alt="UML Diagrams" title="UML Diagrams" />
+  <img src="https://img.shields.io/badge/Class%20Diagrams-4B8BBE?style=for-the-badge" alt="Class Diagrams" title="Class Diagrams" />
+  <img src="https://img.shields.io/badge/Use%20Case%20Diagrams-2E8B57?style=for-the-badge" alt="Use Case Diagrams" title="Use Case Diagrams" />
+  <img src="https://img.shields.io/badge/Database%20Modeling-4479A1?style=for-the-badge" alt="Database Modeling" title="Database Modeling" />
+</p>
+
 ---
 
 ### 🌍 Languages I speak
 
-<p align="left">
-  <img 
-    src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" 
-    alt="Spanish" 
-  />
-  <img 
-    src="https://img.shields.io/badge/English-Basic-blue?style=for-the-badge" 
-    alt="English" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Brazilian%20Portuguese-Basic-blue?style=for-the-badge" 
-    alt="Brazilian Portuguese" 
-  />
-</p>
+<table>
+  <tr>
+    <td><b>Spanish</b></td>
+    <td>Native</td>
+  </tr>
+  <tr>
+    <td><b>English</b></td>
+    <td>Basic</td>
+  </tr>
+  <tr>
+    <td><b>Brazilian Portuguese</b></td>
+    <td>Basic</td>
+  </tr>
+</table>
 
 ---
 
@@ -79,10 +75,10 @@ Systems Engineering student passionate about software development, web applicati
 
 <p align="left">
   <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
   </a>
   <a href="mailto:yosepkabrera789@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-yosepkabrera789%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" title="Gmail" />
   </a>
 </p>
 

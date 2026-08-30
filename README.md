@@ -1,29 +1,28 @@
 <h1 align="center">Heyy wasupp? I'm <code>&lt;/Jhosep_Cabrera&gt;🤙</code></h1>
 
 <h3 align="center">
-Systems Engineering student passionate about software development, web applications and mobile apps.
+Estudiante de Ingeniería de Sistemas apasionado por el desarrollo de software, las aplicaciones web y las aplicaciones móviles.
 </h3>
 
 ---
 
 <img align="right" alt="Coding GIF" width="160" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
-### 👨‍💻 About Me
+### 👨‍💻 Acerca de mí
 
-- Systems Engineering student.
-- Interested in software development, web applications, mobile apps and databases.
-- Working on academic and personal projects.
-- Learning and improving through practice.
+- Me interesan el desarrollo de software, las aplicaciones web, las aplicaciones móviles y las bases de datos.
+- Trabajo en proyectos académicos y personales.
+- Aprendo y mejoro a través de la práctica
   
 ---
 
-### My Skills Include
+### Mis habilidades incluyen
 
-#### Programming Languages
+#### Lenguajes de programación
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,java,cs" alt="Programming Languages" title="HTML, CSS, JavaScript, Python, PHP, Java, C#"/>
 
-#### Frameworks and Libraries
+#### Frameworks y Libraries
 
 <img src="https://skillicons.dev/icons?i=react,vite,laravel" alt="Frameworks and Libraries" title="React, Vite, Laravel" />
 
@@ -71,7 +70,7 @@ Systems Engineering student passionate about software development, web applicati
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Ponte en contacto conmigo
 
 <p align="left">
   <a href="YOUR_LINKEDIN_URL" target="_blank">
